@@ -1,0 +1,190 @@
+@media only screen and (min-width: 0px) and (max-width: 575px){
+	.bodyg{
+		justify-content: center;
+	}
+	.vdo{
+		flex-basis: 90%;
+	}
+	.header{
+		justify-content: center;
+	}
+	.hr{
+		display: none;
+	}
+	.bl{
+		flex-basis: 100%;
+		text-align: center;
+	}
+	.bl .pics{
+		margin: auto;
+		justify-content: center;
+	}
+	.br{
+		flex-basis: 90%;
+		margin: 0 auto;
+	}
+	.br .form form .in{
+		width: 100%;
+	}
+	.br .form form .clor{
+		margin: 5px 0;
+		text-align: center;
+		font-size: 40px;
+		padding: 30px;
+		display: block;
+	}
+	.service{
+		width: 90%;
+		margin: auto;
+	}
+	.truck{
+		display: none;
+	}
+	.boxes{
+		justify-content: space-evenly;
+		gap:0;
+		margin:0;
+		padding: 0;
+	}
+	.box{
+		flex-basis: 40%;
+		margin:10px 0;
+	}
+	.icons{
+		justify-content: center;
+	}
+	.icon{
+		flex-basis: 48%;
+		margin-top: 20px;
+	}
+	.bigd{
+		justify-content: center;
+	}
+	.photo{
+		width: 20%;
+		top:60px;
+	}
+	.detail{
+		width: 40%;
+		padding-bottom: 0;
+	}
+	.companies{
+		justify-content: center;
+		gap:50px;
+	}
+	.logos{
+		width: 40%;
+	}
+	.bm{
+		justify-content: center;
+	}
+	.l{
+		flex-basis: 80%;
+		margin-top: 20px;
+	}
+	.lists{
+		justify-content: center;
+	}
+	.l1{
+		flex-basis: 90%;
+		text-align: center;
+	}
+	.op{
+		display: flex;
+		z-index: 1;
+	}
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px){
+	.bodyg{
+		justify-content: center;
+	}
+	.vdo{
+		flex-basis: 90%;
+	}
+	.header{
+		justify-content: center;
+	}
+	.hr{
+		display: none;
+	}
+	.bl{
+		flex-basis: 100%;
+		text-align: center;
+	}
+	.bl .pics{
+		margin: auto;
+		justify-content: center;
+	}
+	.br{
+		flex-basis: 80%;
+		margin: 0 auto;
+	}
+	.br .form form .in{
+		width: 100%;
+	}
+	.br .form form .clor{
+		margin: 5px 0;
+		text-align: center;
+		font-size: 40px;
+		padding: 30px;
+		display: block;
+	}
+	.service{
+		width: 80%;
+		margin: auto;
+	}
+	.boxes{
+		justify-content: center;
+		margin: 0;
+		padding: 0;
+	}
+	.box{
+		flex-basis: 42%;
+	}
+	.icon{
+		flex-basis: 48%;
+		margin-top: 20px;
+	}
+	.bigd{
+		justify-content: center;
+	}
+	.photo{
+		width: 20%;
+		top:35px;
+	}
+	.detail{
+		width: 40%;
+		padding-bottom: 0;
+	}
+	.companies{
+		justify-content: center;
+		gap:50px;
+	}
+	.logos{
+		width: 40%;
+	}
+	.bm{
+		justify-content: center;
+	}
+	.l{
+		flex-basis: 80%;
+		margin-top: 20px;
+	}
+	.lists{
+		justify-content: center;
+	}
+	.l1{
+		flex-basis: 90%;
+		text-align: center;
+	}
+	.truck{
+		display: none;
+	}
+	.up{
+		display:table;
+		position: fixed;
+		bottom: 50px;
+		right: 50px;
+	}
+}
